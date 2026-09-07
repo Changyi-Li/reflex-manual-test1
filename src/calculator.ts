@@ -13,7 +13,7 @@ export function add(a: number, b: number): number {
 
 /** Subtracts `b` from `a` and returns the difference. */
 export function subtract(a: number, b: number): number {
-  return a + b;
+  return a - b;
 }
 
 /** Multiplies two numbers and returns the product. */
